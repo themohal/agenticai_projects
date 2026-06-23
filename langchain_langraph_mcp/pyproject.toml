@@ -1,0 +1,14 @@
+[project]
+name = "langchain-langraph-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.3.11",
+    "langchain-google-genai>=4.2.5",
+    "langchain-groq>=1.1.3",
+    "langchain-mcp-adapters>=0.3.0",
+    "langgraph>=1.2.6",
+    "mcp>=1.28.0",
+]
