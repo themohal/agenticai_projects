@@ -3,5 +3,16 @@
 uv init
 uv add -r .\requirements.txt
 ```
-## Run python servermath.py and python weather.py on separate terminals 
-## On third terminal run python client.py
+## Run 
+```bash
+python servermath.py
+```
+and
+```bash
+python weather.py
+```
+on separate terminals 
+## On third terminal run 
+```bash
+python client.py
+```
